@@ -1,5 +1,5 @@
 import unittest
-from CW5.src.vacancy import Vacancy
+from ..src.vacancy import Vacancy
 import psycopg2
 
 

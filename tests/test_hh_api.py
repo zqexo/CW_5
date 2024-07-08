@@ -1,6 +1,6 @@
 import unittest
 from unittest.mock import patch, MagicMock
-from CW5.src.hh_api import HHAPI
+from ..src.hh_api import HHAPI
 import psycopg2
 
 class TestHHAPI(unittest.TestCase):
